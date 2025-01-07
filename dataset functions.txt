@@ -1,0 +1,5 @@
+dataset (student_performance_dataDID.csv) containing the following variables:
+
+year: The year of the observation (2019-2023).
+region: The region identifier (treated or control).
+student_performance: Average performance score of students in the school.
